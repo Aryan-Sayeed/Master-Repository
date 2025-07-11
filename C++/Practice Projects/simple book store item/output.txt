@@ -1,0 +1,5 @@
+Author Name: Aryan
+Book title: Quiet musings
+Regular price: 200
+Discount: 3%
+Discount price: 194

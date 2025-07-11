@@ -1,0 +1,13 @@
+Celsius: 20
+Celsius to Kelvin: 293.15
+Celsius to Farenheight: 68
+
+
+Farenheight: 43
+Farenheight to celsius: 6.11111
+Farenheight to Kelvin: 279.261
+
+
+Kelvin: 56
+Kelvin to celsius: -217.15
+Kelvin to Farenheight: -358.87

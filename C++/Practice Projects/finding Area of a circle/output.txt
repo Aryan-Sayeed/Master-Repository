@@ -1,0 +1,10 @@
+Radius: 21 unit
+Area: 1384.74 unit^2
+
+
+Diameter: 25 unit
+Area: 490.625 unit^2
+
+
+Circumference: 28 unit
+Area: 62.4204 unit^2

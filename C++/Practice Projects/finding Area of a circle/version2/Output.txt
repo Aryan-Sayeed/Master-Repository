@@ -1,0 +1,10 @@
+Radius: 21 unit
+Area: 1384.74 unit^2
+
+
+Radius: 10.5 unit
+Area: 346.185 unit^2
+
+
+Radius: 3.34395 unit
+Area: 35.1115 unit^2

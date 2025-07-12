@@ -1,0 +1,4 @@
+Name: Clothes
+Original Price: 223
+Discount%: 20
+Discounted Price: 178.4

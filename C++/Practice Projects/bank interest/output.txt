@@ -1,0 +1,16 @@
+Current Balance: 5000
+interest Rate: 50%
+
+
+Balance Updated
+Old balance: 5000
+New Balance: 7500
+
+
+Balance Updated
+Old balance: 7500
+New Balance: 11250
+
+
+Current Balance: 11250
+interest Rate: 50%
